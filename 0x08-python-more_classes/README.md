@@ -7,7 +7,7 @@ Foundations > Higher-level programming > Python
 Guillaume Salva
 
 ### Assignment dates
-05-22-2020 to 05-27-2020
+07-10-2024 to 07-10-2024
 
 ### Description
 Further exploration of Object-Oriented Programming concepts as represented in Python, such as attributes (class vs instance,) and methods (class vs static, getters vs setters, `__init__`, `__str__`, `__repr__`.)
